@@ -1,4 +1,4 @@
-# todoapp
+# Self-Manger-App
 
 A new Flutter project.
 
