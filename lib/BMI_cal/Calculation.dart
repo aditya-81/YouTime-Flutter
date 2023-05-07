@@ -16,7 +16,7 @@ class Calculator {
   }
 
   String res() {
-    if (_bmi >= 25) {
+    if (_bmi >= 24.9) {
       return "Overweight";
     } else if (_bmi > 18.5) {
       return "Normal";
@@ -26,7 +26,7 @@ class Calculator {
   }
 
   String inter() {
-    if (_bmi >= 25) {
+    if (_bmi >= 24.9) {
       return "You need to control your diet. And focus on exercise!!";
     } else if (_bmi > 18.5) {
       return "You are fit. Good Job and stay Healthy!!";
