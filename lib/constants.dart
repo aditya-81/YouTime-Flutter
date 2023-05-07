@@ -1,3 +1,5 @@
+//The colours and constants used in App
+
 import 'package:flutter/material.dart';
 
 const kBackgroundColor = Color(0xFF0c192e);
