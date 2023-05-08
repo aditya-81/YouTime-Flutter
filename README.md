@@ -1,6 +1,6 @@
 # Self-Manger-App
 
-A new Flutter project.
+A new Flutter project to simplifies the day-to-day life by integrating all the features in a single app
 
 ## Getting Started
 
